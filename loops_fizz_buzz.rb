@@ -4,3 +4,10 @@
 # for multiples of three print "Fizz" instead of the number
 #   for multiples of five print "Buzz" instead of the number
 #   for numbers which are multiples of both three and five print "FizzBuzz"
+
+i = 0
+
+loop do 
+  i = i + 1
+  puts i
+  end
